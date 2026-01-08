@@ -6,7 +6,7 @@ sample.py - 별(*)로 산 모양 출력하기
 
 
 def main() -> None:
-    height = 5  # 산의 높이
+    height = 15  # 산의 높이
 
     print("=== 별로 산 만들기 ===\n")
 
